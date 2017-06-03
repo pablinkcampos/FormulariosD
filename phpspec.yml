@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: FormulariosD
+        psr4_prefix: FormulariosD
+        src_path: app
